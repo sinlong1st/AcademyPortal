@@ -1,5 +1,4 @@
 # Đồ án tốt nghiệp | Final Project
-Xây dựng phần mềm thông minh quản lý chăm sóc học viên cho trung tâm đào tạo
 Academy Portal
 
 ## Demo
