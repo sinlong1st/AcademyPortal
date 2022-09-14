@@ -1,0 +1,22 @@
+// Here you can add other styles
+//page course
+.sidebar .nav-dropdown.open > .nav-dropdown-items {
+    padding-left: 14px;
+}
+
+.table-dark {
+    background-color: #f9f9f9;
+    color: #000000;
+  
+    tr:hover {
+      background-color: #FFFFCC;
+    }
+  
+    th {
+      background-color: #DFF4FF;
+      color: #1C377C;
+      height: 38px;
+      font-weight: bold;
+    }
+  }
+//page course

@@ -1,0 +1,101 @@
+td.changeCursor:hover { 
+  cursor: pointer;
+  background-color: #3e8e41;
+  color: aliceblue
+}
+
+tr.changeCursor:hover { 
+  cursor: pointer;
+}
+
+.changeCursor:hover { 
+  cursor: pointer;
+}
+
+.centered {
+  position: fixed;
+  left: 50%;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Helvetica', sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 15px;
+  margin: 10px auto;
+}
+
+.csv-input {
+  padding: 10px;
+  display: block;
+  margin: 15px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.text-line {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-height: 16px;     /* fallback */
+  max-height: 32px;      /* fallback */
+  height: 32px;      /* fallback */
+  -webkit-line-clamp: 2; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.max-lines {
+  display: block; /* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 3.6em;
+  line-height: 1.8em;
+  height: 45px;  
+}
+
+.maxline {
+  display: block; /* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 3.6em;
+  line-height: 1.8em;
+  height: 25px;  
+}
+
+.toprightfull {
+  position: absolute;
+  top: 2px;
+  right: 7px;
+  color: #FF6347; 
+  font-weight: bold;
+}
+
+.topright {
+  position: absolute;
+  top: 2px;
+  right: 7px;
+  color: #3e8e41; 
+  font-weight: bold;
+}
+
+.toprightalmostfull {
+  position: absolute;
+  top: 2px;
+  right: 7px;
+  color: Orange; 
+  font-weight: bold;
+}
+
+.info {
+  margin-top: 7px
+}
+
+.warninfo {
+  color: red;
+  margin-top: 7px
+}

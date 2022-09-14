@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "LMS Ai-Edu",
+    "slug": "Moodle",
+    "description": "Learning management system",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/Ai-Edu.png",
+    "splash": {
+      "image": "./assets/icons/loading.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "com.learning_management_system",
+      "versionCode": 7,
+      "permissions": [],
+      "icon": "./assets/icons/Ai-Edu.png"
+    }
+  }
+}

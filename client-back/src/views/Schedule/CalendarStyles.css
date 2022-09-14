@@ -1,0 +1,25 @@
+/* adjusting the built-in theme */
+
+/* column header padding */
+.calendar_default_colheader_inner {
+    padding: 5px;
+}
+
+/* row header padding */
+.calendar_default_rowheader_inner {
+    padding: 5px;
+}
+
+/* calendar event */
+.calendar_default_event_inner {
+    background: #2e78d6;
+    color: #fff;
+    border: none;
+    font-size: 10pt;
+    padding: 5px;
+    opacity: 0.8;
+}
+
+.navigator_default_busy {
+  text-shadow: 0.5px 0.5px;
+}

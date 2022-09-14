@@ -1,0 +1,40 @@
+// Here you can add other styles
+.table-dark {
+  background-color: #f9f9f9;
+  color: #000000;
+
+  tr:hover {
+    background-color: #FFFFCC;
+  }
+
+  th {
+    background-color: #DFF4FF;
+    color: #1C377C;
+    height: 38px;
+    font-weight: bold;
+  }
+}
+
+.fa-2x {
+  font-size: 1.4em;
+}
+
+#login,
+#register {
+  .container {
+    background-color: unset;
+  }
+}
+
+.content-common {
+  background-color: #ffffff;
+  text-align: center
+}
+
+.header-fixed .app-body {
+  margin-top: 40px;
+}
+
+.btn {
+  font-size: 14px;
+}
