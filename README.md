@@ -1,4 +1,4 @@
-# Đồ án tốt nghiệp | Final Project
+Final Project
 Academy Portal
 
 ## Demo
