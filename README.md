@@ -1,6 +1,10 @@
-Final Project
 Academy Portal
-
+Features:
++ Add/update/delete quizz
++ Grading, enroll
++ Add/update/delete courses, teachers, students
++ Class report
++ ...
 ## Demo
 ``` bash
 Home Page: http://www.giangdayit.com
